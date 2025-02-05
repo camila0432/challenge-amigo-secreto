@@ -1,7 +1,7 @@
 let listaNombres = [];
 
 let listaNumeros = [2, 3, 4, 5];
-let listaCualquiera = ["eduar", 2, "marcela", 3];
+let listaCualquiera = ["jose", 2, "olga", 3];
 
 function agregarAmigo() {
   let nombre = document.getElementById("amigo").value;
